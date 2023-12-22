@@ -54,8 +54,6 @@ def create_directories(path_to_directories: list, verbose=True):
 def get_size(path: Path) -> str:
     """get size in KB
 
-
-    
     Args:
         path (Path): path of the file
 
